@@ -5,12 +5,6 @@
 </picture>
 
 ##
-<div align="center">
-  <h3>Contato:</h3>
-<a href ="mailto:erik.nelsondias@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
-
-##
   
 <div align="center"> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mexicass&theme=shadow_red&show_icons=true">
