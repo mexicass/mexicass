@@ -1,5 +1,5 @@
 
-<h3 align="center">Languages:</h3>
+<h3 align="center">Lenguajes:</h3>
 <p align="center"> 
   <img align="center" alt="mexicas-java" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain-wordmark.svg">
 </picture>
